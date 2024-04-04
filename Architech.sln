@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "back-end", "back-end", "{4EFC1E83-9943-4FCD-AF5D-6CFC51F2F8E2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Architech", "back-end\Architech\Architech.csproj", "{C6B6CF66-E9D6-4352-A299-209A0A4BAE58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6B6CF66-E9D6-4352-A299-209A0A4BAE58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6B6CF66-E9D6-4352-A299-209A0A4BAE58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6B6CF66-E9D6-4352-A299-209A0A4BAE58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6B6CF66-E9D6-4352-A299-209A0A4BAE58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C6B6CF66-E9D6-4352-A299-209A0A4BAE58} = {4EFC1E83-9943-4FCD-AF5D-6CFC51F2F8E2}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FC2DBE0-FB3F-4D30-BAA8-BC4BE587E21E}
+	EndGlobalSection
+EndGlobal
